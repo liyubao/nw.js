@@ -1,2 +1,2 @@
 # nw.js
-Repossitório nw.js em - português
+Repositório nw.js em - português
